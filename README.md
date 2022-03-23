@@ -18,13 +18,13 @@ Nombre: ROCÍO
 
 
 ### Historia
-
+Rocío es una chica de 21 años que no está convencida de la relación que tiene con su pareja. Todo su alrededor piensa que es mejor que esté sola, pero ella cree que no podráá superar la situación de sentirse sola en ese sentido. 
 
 ### Contexto
 
 
 ### Conflicto 
-
+Superar el miedo de sentirse sola  e intentar conseguir tener una buena salud mental. 
 
 
 ### Productos
@@ -45,9 +45,7 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :mujer: Alba María Linares Moreno 
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
@@ -55,7 +53,7 @@ Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908)
 
 
 
-Febrero, 202X
+Marzo, 2022
 
 Proyecto dentro de la serie [HRUN Story](https://github.com/mgea/storytelling_21/blob/master/What_is_a_HRUN_story.md). 
 Proyectos seleccionados de  [2021](https://github.com/mgea/storytelling/blob/master/2021/readme.md) / [2020](https://github.com/mgea/storytelling/blob/master/2020/readme.md)  / 
