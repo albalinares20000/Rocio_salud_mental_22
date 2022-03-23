@@ -45,7 +45,7 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :mujer: Alba María Linares Moreno 
+-Alba María Linares Moreno   
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
