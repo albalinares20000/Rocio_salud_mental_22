@@ -3,7 +3,7 @@
 # Proyecto Storytelling (template): 
 
 Nombre del equipo: ALBA MARÍA LINARES MORENO 
-Link al interactivo:  https://albalinares.h5p.com/content/1291593077098121487
+
 
 Proyecto (código): 
 
@@ -31,7 +31,8 @@ Superar el miedo de sentirse sola  e intentar conseguir tener una buena salud me
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: 
+Link al interactivo: https://albalinares.h5p.com/content/1291593077098121487 
 
 - Banner/Teaser:  (enlace) 
 
