@@ -2,7 +2,7 @@
 
 # Proyecto Storytelling (template): 
 
-Nombre del equipo: ALBA MARÍA LINARES MORENO 
+Nombre del equipo: GRUPO 3 
 
 
 Proyecto (código): 
@@ -48,7 +48,7 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
--Alba María Linares Moreno   
+👩🏼 Alba Mar   
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
