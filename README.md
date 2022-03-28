@@ -26,7 +26,7 @@ Rocío es una chica de 21 años que no está convencida de la relación que tien
 
 
 ### Conflicto 
-Superar el miedo de sentirse sola  e intentar conseguir tener una buena salud mental. 
+
 
 
 ### Productos
