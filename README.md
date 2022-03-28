@@ -10,9 +10,10 @@ Proyecto (código):
 ## Resumen
 
 
-### Personaje
+### Personaje![WhatsApp Image 2022-03-21 at 12 06 36](https://user-images.githubusercontent.com/101641555/160386773-5e06c52b-3066-40b5-9b0b-051cc399d4ce.jpeg)
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+
+
 
 Nombre: ROCÍO
 
