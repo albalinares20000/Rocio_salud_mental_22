@@ -33,10 +33,12 @@ Link al interactivo: https://albalinares.h5p.com/content/1291593077098121487
 
 - Storytelling: (enlace) 
 
-MARCA ACTIVVADORA (REALIDAD AUMENTADA) 
+MARCA ACTIVVADORA (REALIDAD AUMENTADA)  
+
 ![30440424-b650-47f9-bb88-12a33453a6c9](https://user-images.githubusercontent.com/101641555/169083265-c22ddfef-9f4e-4eeb-9d28-2b8384a1f1c9.png)
 
-QR REALIDAD AUMENTADA 
+QR REALIDAD AUMENTADA  
+
 ![qr-code](https://user-images.githubusercontent.com/101641555/169083306-a18b3c70-cf10-4e6c-b265-69bcebbd1f6d.png)
 
 
