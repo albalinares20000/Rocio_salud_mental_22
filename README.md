@@ -22,13 +22,8 @@ Nombre: ROCÍO
 ### Historia
 Rocío es una chica de 21 años que no está convencida de la relación que tiene con su pareja. Todo su alrededor piensa que es mejor que esté sola, pero ella cree que no podráá superar la situación de sentirse sola en ese sentido. 
 
-### Contexto
-
-
+### Context
 ### Conflicto 
-
-
-
 ### Productos
 
 - Personaje: 
@@ -37,6 +32,13 @@ Link al interactivo: https://albalinares.h5p.com/content/1291593077098121487
 - Banner/Teaser:  (enlace) 
 
 - Storytelling: (enlace) 
+
+MARCA ACTIVVADORA (REALIDAD AUMENTADA) 
+![30440424-b650-47f9-bb88-12a33453a6c9](https://user-images.githubusercontent.com/101641555/169083265-c22ddfef-9f4e-4eeb-9d28-2b8384a1f1c9.png)
+
+QR REALIDAD AUMENTADA 
+![qr-code](https://user-images.githubusercontent.com/101641555/169083306-a18b3c70-cf10-4e6c-b265-69bcebbd1f6d.png)
+
 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
