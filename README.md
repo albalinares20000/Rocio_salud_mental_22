@@ -11,7 +11,10 @@ Proyecto (código):
 ## Resumen
 
 
-### Personaje![WhatsApp Image 2022-03-21 at 12 06 36](https://user-images.githubusercontent.com/101641555/160386773-5e06c52b-3066-40b5-9b0b-051cc399d4ce.jpeg)
+### Personaje
+
+
+<img width="743" alt="Captura de pantalla 2022-05-18 a las 17 41 51" src="https://user-images.githubusercontent.com/101641555/169085062-18afb291-9c59-4a44-a05e-326116e732cc.png">
 
 
 
