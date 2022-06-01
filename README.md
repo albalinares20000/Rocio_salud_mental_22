@@ -26,7 +26,10 @@ Nombre: ROCÍO
 Rocío es una chica de 21 años que no está convencida de la relación que tiene con su pareja. Todo su alrededor piensa que es mejor que esté sola, pero ella cree que no podráá superar la situación de sentirse sola en ese sentido. 
 
 ### Context
-### Conflicto 
+
+### Conflicto  
+La lucha contra el problema de la salud mental 
+
 ### Productos
 
 - Personaje: 
@@ -35,9 +38,8 @@ Link al interactivo: https://albalinares.h5p.com/content/1291593077098121487
 ENLACE A ARCWEAVE: https://arcweave.com/app#/project/gk6Qedz6dK ![image](https://user-images.githubusercontent.com/101641555/169084418-f606ab66-dff3-4673-8e2a-7dcdcac6abca.png)
 
  
-
+STORYTELLING - ROCÍO: Salud Mental. https://view.genial.ly/6294a1e94160220011e3ad40/interactive-content-rocio 
  
-
 
 
 MARCA ACTIVVADORA (REALIDAD AUMENTADA)  
