@@ -2,7 +2,7 @@
 
 # Proyecto Storytelling (template): 
 
-Nombre del equipo: GRUPO 3 
+Nombre del equipo: GRUPO 3 - Alba María Linares Moreno
 
 
 Proyecto (código): 
